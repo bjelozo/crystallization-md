@@ -4,7 +4,7 @@ Collective variables for Plumed and Gromacs to simulate kink growth and dissolut
 The code consists of following collective variables (CVs):
 - Surface structure CV: ZrowC8C9GXY.cpp
 - Gaussian biased CV kernel: ZsphereG2.cpp
-- Wall CVs for growth prevention: ZpyXY.cpp
+- Wall CVs for growth prevention: ZpyXY.cpp, ZrowX.cpp, Zsphere.cpp
 
 If you use these CVs, please cite following papers:
 - Solubility prediction of organic molecules with molecular dynamics simulations; Z Bjelobrk, D Mendels, T Karmakar, M Parrinello, M Mazzotti; Crystal Growth & Design 21 (9), 5198-5205. https://doi.org/10.1021/acs.cgd.1c00546
